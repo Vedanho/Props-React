@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+
+}
+.img {
+    width: 8%;
+    height: 70%;
+}

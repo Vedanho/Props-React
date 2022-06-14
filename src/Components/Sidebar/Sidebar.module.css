@@ -1,0 +1,16 @@
+.sidebar {
+  width: 30%;
+}
+.list {
+  list-style-type: none;
+  align-self: flex-start;
+  line-height: 1em;
+  padding: 0;
+  font-size: 23px;
+  text-decoration: none;
+}
+.list_item {
+    
+    text-decoration: none;
+    color:black
+}
